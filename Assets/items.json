@@ -1,0 +1,217 @@
+{
+    "equipableItemList": [{
+            "itemID": 0,
+            "icon": {
+                "instanceID": 0
+            },
+            "itemStats": {
+                "dmg": 0.0,
+                "life": 0.0,
+                "lifeCap": 30.0,
+                "speed": -5.0,
+                "range": 0.0,
+                "actualExperience": 0.0,
+                "experienceCap": 0.0
+            },
+            "name": "Heavy Armor",
+            "itemType": 2,
+            "resourcesDataPath": "Heavy_Armor",
+            "slotType": 0
+        }, {
+            "itemID": 1,
+            "icon": {
+                "instanceID": 0
+            },
+            "itemStats": {
+                "dmg": 30.0,
+                "life": 0.0,
+                "lifeCap": -30.0,
+                "speed": 0.0,
+                "range": 0.0,
+                "actualExperience": 0.0,
+                "experienceCap": 0.0
+            },
+            "name": "Glass Cannon Amulet",
+            "itemType": 2,
+            "resourcesDataPath": "Glass_Cannon_Amulet",
+            "slotType": 2
+        }, {
+            "itemID": 2,
+            "icon": {
+                "instanceID": 0
+            },
+            "itemStats": {
+                "dmg": 0.0,
+                "life": 0.0,
+                "lifeCap": 0.0,
+                "speed": 0.0,
+                "range": 20.0,
+                "actualExperience": 0.0,
+                "experienceCap": 0.0
+            },
+            "name": "Sharpshooter Ring",
+            "itemType": 2,
+            "resourcesDataPath": "Sharpshooter_Ring",
+            "slotType": 1
+        }
+    ],
+    "consumableItemList": [{
+            "itemID": 0,
+            "icon": {
+                "instanceID": 0
+            },
+            "itemStats": {
+                "dmg": 0.0,
+                "life": 30.0,
+                "lifeCap": 0.0,
+                "speed": 0.0,
+                "range": 0.0,
+                "actualExperience": 0.0,
+                "experienceCap": 0.0
+            },
+            "name": "Potion of Healing",
+            "itemType": 3,
+            "resourcesDataPath": "Potion_Of_Healing"
+        }, {
+            "itemID": 1,
+            "icon": {
+                "instanceID": 0
+            },
+            "itemStats": {
+                "dmg": 0.0,
+                "life": 0.0,
+                "lifeCap": 0.0,
+                "speed": 4.0,
+                "range": 0.0,
+                "actualExperience": 0.0,
+                "experienceCap": 0.0
+            },
+            "name": "Great Potion of Speed",
+            "itemType": 3,
+            "resourcesDataPath": "Great_Potion_Of_Speed"
+        }, {
+            "itemID": 2,
+            "icon": {
+                "instanceID": 0
+            },
+            "itemStats": {
+                "dmg": 20.0,
+                "life": 0.0,
+                "lifeCap": 0.0,
+                "speed": 0.0,
+                "range": 0.0,
+                "actualExperience": 0.0,
+                "experienceCap": 0.0
+            },
+            "name": "Strenght Amber",
+            "itemType": 3,
+            "resourcesDataPath": "Strenght_Amber"
+        }
+    ],
+    "temporaryItemList": [{
+            "itemID": 0,
+            "icon": {
+                "instanceID": 0
+            },
+            "itemStats": {
+                "dmg": 0.0,
+                "life": 0.0,
+                "lifeCap": 0.0,
+                "speed": 8.0,
+                "range": 0.0,
+                "actualExperience": 0.0,
+                "experienceCap": 0.0
+            },
+            "name": "Temporary Orb of Speed",
+            "itemType": 1,
+            "resourcesDataPath": "Temporary_Orb_Of_Speed"
+        }, {
+            "itemID": 1,
+            "icon": {
+                "instanceID": 0
+            },
+            "itemStats": {
+                "dmg": 0.0,
+                "life": 0.0,
+                "lifeCap": 0.0,
+                "speed": 0.0,
+                "range": 15.0,
+                "actualExperience": 0.0,
+                "experienceCap": 0.0
+            },
+            "name": "Temporary Orb of Range",
+            "itemType": 1,
+            "resourcesDataPath": "Temporary_Orb_Of_Range"
+        }, {
+            "itemID": 2,
+            "icon": {
+                "instanceID": 0
+            },
+            "itemStats": {
+                "dmg": 15.0,
+                "life": 0.0,
+                "lifeCap": 0.0,
+                "speed": 0.0,
+                "range": 0.0,
+                "actualExperience": 0.0,
+                "experienceCap": 0.0
+            },
+            "name": "Temporary Orb of Damage",
+            "itemType": 1,
+            "resourcesDataPath": "Temporary_Orb_Of_Damage"
+        }
+    ],
+    "miscellaneousItemList": [{
+            "itemID": 0,
+            "icon": {
+                "instanceID": 0
+            },
+            "itemStats": {
+                "dmg": 0.0,
+                "life": 0.0,
+                "lifeCap": 0.0,
+                "speed": 0.0,
+                "range": 0.0,
+                "actualExperience": 0.0,
+                "experienceCap": 0.0
+            },
+            "name": "Iron Block",
+            "itemType": 4,
+            "resourcesDataPath": "Iron_Block"
+        }, {
+            "itemID": 1,
+            "icon": {
+                "instanceID": 0
+            },
+            "itemStats": {
+                "dmg": 0.0,
+                "life": 0.0,
+                "lifeCap": 0.0,
+                "speed": 0.0,
+                "range": 0.0,
+                "actualExperience": 0.0,
+                "experienceCap": 0.0
+            },
+            "name": "Scroll",
+            "itemType": 4,
+            "resourcesDataPath": "Scroll"
+        }, {
+            "itemID": 2,
+            "icon": {
+                "instanceID": 0
+            },
+            "itemStats": {
+                "dmg": 0.0,
+                "life": 0.0,
+                "lifeCap": 0.0,
+                "speed": 0.0,
+                "range": 0.0,
+                "actualExperience": 0.0,
+                "experienceCap": 0.0
+            },
+            "name": "Skull",
+            "itemType": 4,
+            "resourcesDataPath": "Skull"
+        }
+    ]
+}

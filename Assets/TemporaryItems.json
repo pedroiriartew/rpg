@@ -1,0 +1,46 @@
+{
+    "itemList": [{
+            "itemID": 0,
+            "icon": {
+                "instanceID": 0
+            },
+            "itemStats": {
+                "dmg": 0.0,
+                "life": 0.0,
+                "lifeCap": 0.0,
+                "speed": 15.0,
+                "range": 0.0
+            },
+            "name": "Temporary Orb of Speed",
+            "itemType": 1
+        }, {
+            "itemID": 1,
+            "icon": {
+                "instanceID": 0
+            },
+            "itemStats": {
+                "dmg": 0.0,
+                "life": 0.0,
+                "lifeCap": 0.0,
+                "speed": 0.0,
+                "range": 15.0
+            },
+            "name": "Temporary Orb of Range",
+            "itemType": 1
+        }, {
+            "itemID": 2,
+            "icon": {
+                "instanceID": 0
+            },
+            "itemStats": {
+                "dmg": 15.0,
+                "life": 0.0,
+                "lifeCap": 0.0,
+                "speed": 0.0,
+                "range": 0.0
+            },
+            "name": "Temporary Orb of Damage",
+            "itemType": 1
+        }
+    ]
+}

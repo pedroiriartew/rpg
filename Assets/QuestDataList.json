@@ -1,0 +1,49 @@
+{
+    "questList": [{
+            "questID": 0,
+            "questName": "Recover the Skull",
+            "questStages": [{
+                    "stageID": 0,
+                    "stageName": "First Stage",
+                    "isStageFinished": false,
+                    "stageObjectives": [{
+                            "objectiveID": 0,
+                            "objectiveName": "Explore the area in search of the SKull",
+                            "type": 0,
+                            "isObjectiveFinished": false
+                        }, 
+						{
+                            "objectiveID": 1,
+                            "objectiveName": "Recover the Skull to the NPC",
+                            "type": 1,
+                            "isObjectiveFinished": false
+                        }
+                    ]
+                }
+            ],
+            "isQuestFinished": false,
+            "isQuestActive": false,
+            "type": 0
+        }, 
+		{
+            "questID": 1,
+            "questName": "Interact with the World",
+            "questStages": [{
+                    "stageID": 0,
+                    "stageName": "First Stage",
+                    "isStageFinished": false,
+                    "stageObjectives": [{
+                            "objectiveID": 0,
+                            "objectiveName": "Spawn an item",
+                            "type": 1,
+                            "isObjectiveFinished": false
+                        }
+                    ]
+                }
+            ],
+            "isQuestFinished": false,
+            "isQuestActive": false,
+            "type": 1
+        }
+    ]
+}
